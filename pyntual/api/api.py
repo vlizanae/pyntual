@@ -30,14 +30,14 @@ def _verify_type(variable: Any, _type: Type, name: str) -> None:
         raise TypeError(f'{name} ({variable}) must be {_type.__name__}, not {type(variable).__name__}.')
 
 
-def asset_providers() -> pd.DataFrame:
-    return _to_dataframe(_get_request('asset_providers'))
-
-
 def asset_provider(_id: int) -> pd.DataFrame:
     _verify_type(_id, int, 'Asset provider id')
     path = os.path.join('asset_providers', str(_id))
     return _to_dataframe(_get_request(path))
+
+
+def asset_providers() -> pd.DataFrame:
+    return _to_dataframe(_get_request('asset_providers'))
 
 
 def banks(query: str or None = None) -> pd.DataFrame:
@@ -46,6 +46,12 @@ def banks(query: str or None = None) -> pd.DataFrame:
     else:
         data = _get_request('banks')
     return _to_dataframe(data)
+
+
+def conceptual_asset(_id: int) -> pd.DataFrame:
+    _verify_type(_id, int, 'Conceptual asset id')
+    path = os.path.join('conceptual_assets', str(_id))
+    return _to_dataframe(_get_request(path))
 
 
 def conceptual_assets(asset_provider_id: int or None = None,
@@ -62,9 +68,3 @@ def conceptual_assets(asset_provider_id: int or None = None,
     else:
         data = _get_request(path)
     return _to_dataframe(data)
-
-
-def conceptual_asset(_id: int) -> pd.DataFrame:
-    _verify_type(_id, int, 'Conceptual asset id')
-    path = os.path.join('conceptual_assets', str(_id))
-    return _to_dataframe(_get_request(path))

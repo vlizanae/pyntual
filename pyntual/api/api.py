@@ -10,7 +10,8 @@ def _get_request(path: str, **kwargs: str) -> dict:
         url = f'{url}?{args}'
     request = requests.get(url)
     request.raise_for_status()
-    return request.json()['data']
+    data = request.json()['data']
+    return data if type(data) == list else [data]
 
 
 def asset_providers(_id: int = None) -> pd.DataFrame:

@@ -24,4 +24,4 @@ class TestPyntualAPI(unittest.TestCase):
         """Test asset providers API call."""
         providers = api.asset_providers(1)
         self.assertIsInstance(providers, pd.DataFrame, 'Response must be DataFrame')
-        self.assertListEqual(providers.columns, ['name'], 'DataFrame must have name column')
+        self.assertListEqual(providers.columns.to_list(), ['name'], 'DataFrame must have name column')

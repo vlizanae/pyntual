@@ -20,7 +20,7 @@ with open('requirements_dev.txt') as requirements_file:
         line.strip() for line in requirements_file.readlines() if line.strip()
     ]
 
-test_requirements = [ ]
+test_requirements = requirements
 
 setup(
     author="Vicente Lizana Estivill",

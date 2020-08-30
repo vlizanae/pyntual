@@ -6,7 +6,7 @@ Pyntual
 .. image:: https://img.shields.io/pypi/v/pyntual.svg
         :target: https://pypi.python.org/pypi/pyntual
 
-.. image:: https://img.shields.io/travis/vlizanae/pyntual.svg
+.. image:: https://img.shields.io/travis/com/vlizanae/pyntual.svg
         :target: https://travis-ci.com/vlizanae/pyntual
 
 .. image:: https://readthedocs.org/projects/pyntual/badge/?version=latest
@@ -31,7 +31,7 @@ Features
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was created from the `audreyr/cookiecutter-pypackage`_ project template using Cookiecutter_.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage

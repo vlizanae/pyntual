@@ -4,6 +4,9 @@ from .api import (
     banks,
     conceptual_asset,
     conceptual_assets,
+    real_asset,
+    real_assets,
+    real_asset_days,
 )
 
 __all__ = [
@@ -12,4 +15,7 @@ __all__ = [
     'banks',
     'conceptual_asset',
     'conceptual_assets',
+    'real_asset',
+    'real_assets',
+    'real_asset_days',
 ]

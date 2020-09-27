@@ -1,4 +1,4 @@
-Welcome to Pyntual's documentation!
+Pyntual docs
 ======================================
 
 .. toctree::

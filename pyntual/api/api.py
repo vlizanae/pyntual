@@ -53,7 +53,11 @@ def _to_dataframe(data: list) -> pd.DataFrame:
     date_columns = ['date', 'last_day_date']
     for column in dataframe.columns:
         if column in integer_columns:
-            dataframe[column] = dataframe[column].astype(int)
+            # Apparently there are non integer ids. (?)
+            try:
+                dataframe[column] = dataframe[column].astype(int)
+            except ValueError:
+                pass
         elif column in float_columns:
             dataframe[column] = pd.to_numeric(dataframe[column], errors='coerce')
         elif column in date_columns:

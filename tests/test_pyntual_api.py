@@ -3,8 +3,9 @@
 """Tests for `pyntual` package."""
 
 import json
-import unittest
+import os
 import pandas as pd
+import unittest
 
 from datetime import datetime
 from requests import Response
@@ -31,7 +32,8 @@ class TestPyntualAPI(unittest.TestCase):
                                      **kwargs) -> None:
         with patch('requests.get') as mock_get:
             mock_get.return_value.status_code = 200
-            with open(f'json_responses/{json_response}.json') as json_response_file:
+            dirname = os.path.dirname(__file__)
+            with open(os.path.join(dirname, 'json_responses', f'{json_response}.json')) as json_response_file:
                 mock_get.return_value.json.return_value = json.load(json_response_file)
             dataframe = api_call(*args, **kwargs)
         self.assertIsInstance(dataframe, pd.DataFrame, 'Response must be DataFrame')

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "2841",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSION BANCHILE GLOBAL REAL ESTATE",
+        "symbol": "FINV-9854",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9854-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    }
+  ]
+}

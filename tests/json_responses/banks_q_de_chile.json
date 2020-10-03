@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco de Chile"
+      }
+    },
+    {
+      "id": "3",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco del Estado de Chile"
+      }
+    }
+  ]
+}

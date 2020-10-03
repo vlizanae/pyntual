@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": "166-2020-10-05",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-10-05",
+        "price": 28712.63,
+        "close_price": 28712.63,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-10-04",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-10-04",
+        "price": 28711.67,
+        "close_price": 28711.67,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-10-03",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-10-03",
+        "price": 28710.72,
+        "close_price": 28710.72,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-10-02",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-10-02",
+        "price": 28709.76,
+        "close_price": 28709.76,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-10-01",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-10-01",
+        "price": 28708.8,
+        "close_price": 28708.8,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-30",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-30",
+        "price": 28707.85,
+        "close_price": 28707.85,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-29",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-29",
+        "price": 28706.89,
+        "close_price": 28706.89,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-28",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-28",
+        "price": 28705.94,
+        "close_price": 28705.94,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-27",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-27",
+        "price": 28704.98,
+        "close_price": 28704.98,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-26",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-26",
+        "price": 28704.02,
+        "close_price": 28704.02,
+        "close_price_type": "clp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "166-2020-09-22",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-22",
+        "price": 28700.2,
+        "close_price": 28700.2,
+        "close_price_type": "clp"
+      }
+    }
+  ]
+}

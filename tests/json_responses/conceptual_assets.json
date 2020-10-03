@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": "25",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "Dólar Observado",
+        "symbol": "USDCLP",
+        "category": "currency",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "",
+        "data_source": "https://www.bcentral.cl"
+      }
+    },
+    {
+      "id": "2784",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "Franklin Templeton Deuda Corto Plazo",
+        "symbol": "FT-LIQU",
+        "category": "investment_fund",
+        "currency": "MXN",
+        "max_scale": 6,
+        "run": "",
+        "data_source": null
+      }
+    },
+    {
+      "id": "1679",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BCI RENDIMIENTO",
+        "symbol": "FFMM-BCI-8036",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8036-5",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2826",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "GLD",
+        "symbol": "GLD",
+        "category": "etf",
+        "currency": "USD",
+        "max_scale": 4,
+        "run": "",
+        "data_source": null
+      }
+    },
+    {
+      "id": "1670",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BCI ESTRATEGIA UF > 5 AÑOS",
+        "symbol": "FFMM-BCI-8460",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8460-3",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2642",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BICE ESTRUCTURADO 108",
+        "symbol": "FFMM-BICE-9728",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9728-4",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2892",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO ITAU COMPASS ACCIONES LATINOAMERICANAS",
+        "symbol": "FFMM-ITAU-9926",
+        "category": "mutual_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9926-0",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1774",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO CREDICORP CAPITAL INDICE CHILE",
+        "symbol": "FFMM-CREDICORP-8929",
+        "category": "mutual_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "8929-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2889",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSIÓN TRONADOR DEUDA PRIVADA",
+        "symbol": "FINV-9918",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9918-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2898",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "XLC Deuda Privada Fintech Fondo de Inversión",
+        "symbol": "FINV-9907",
+        "category": "investment_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9907-4",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    }
+  ]
+}

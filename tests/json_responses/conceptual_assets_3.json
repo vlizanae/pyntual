@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": "2841",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSION BANCHILE GLOBAL REAL ESTATE",
+        "symbol": "FINV-9854",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9854-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2305",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO DEUDA ESTATAL",
+        "symbol": "FFMM-BANCHILE-8102",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8102-7",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2306",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO DEUDA ESTATAL PESOS 2-4 AÑOS",
+        "symbol": "FFMM-BANCHILE-8275",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8275-9",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2308",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO DEUDA PESOS 1-5 AÑOS",
+        "symbol": "FFMM-BANCHILE-8134",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8134-5",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1886",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO EQUILIBRADO",
+        "symbol": "FFMM-BANCHILE-9043",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9043-3",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1887",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO MODERADO",
+        "symbol": "FFMM-BANCHILE-9067",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9067-0",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1888",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO POTENCIADO",
+        "symbol": "FFMM-BANCHILE-8448",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8448-4",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1917",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE QUANT GLOBAL STRATEGY",
+        "symbol": "FFMM-BANCHILE-9038",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9038-7",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1918",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE RENTA FUTURA",
+        "symbol": "FFMM-BANCHILE-8357",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "8357-7",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1719",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BOOSTER ACCIONES BRASIL",
+        "symbol": "FFMM-BANCHILE-9585",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9585-0",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    }
+  ]
+}

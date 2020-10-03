@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": "25",
+    "type": "conceptual_asset",
+    "attributes": {
+      "name": "Dólar Observado",
+      "symbol": "USDCLP",
+      "category": "currency",
+      "currency": "CLP",
+      "max_scale": 4,
+      "run": "",
+      "data_source": "https://www.bcentral.cl"
+    }
+  }
+}

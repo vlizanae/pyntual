@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "166-2020-09-22",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-22",
+        "price": 28700.2,
+        "close_price": 28700.2,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-23",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-23",
+        "price": 28701.15,
+        "close_price": 28701.15,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-24",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-24",
+        "price": 28702.11,
+        "close_price": 28702.11,
+        "close_price_type": "clp"
+      }
+    },
+    {
+      "id": "166-2020-09-25",
+      "type": "real_asset_day",
+      "attributes": {
+        "date": "2020-09-25",
+        "price": 28703.07,
+        "close_price": 28703.07,
+        "close_price_type": "clp"
+      }
+    }
+  ]
+}

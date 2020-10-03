@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "166",
+    "type": "real_asset",
+    "attributes": {
+      "name": "CLF/CLP",
+      "symbol": "CLFCLP",
+      "serie": null,
+      "start_date": null,
+      "end_date": null,
+      "previous_asset_id": null,
+      "last_day": {
+        "close_price": 28712.63,
+        "date": "2020-10-05"
+      }
+    }
+  }
+}

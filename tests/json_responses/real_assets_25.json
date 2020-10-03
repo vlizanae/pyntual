@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "175",
+      "type": "real_asset",
+      "attributes": {
+        "name": "Dólar Observado",
+        "symbol": "USDCLP",
+        "serie": null,
+        "start_date": null,
+        "end_date": null,
+        "previous_asset_id": null,
+        "last_day": {
+          "close_price": 790.81,
+          "date": "2020-10-05"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "6",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco do Brasil S.A."
+      }
+    },
+    {
+      "id": "9",
+      "type": "bank",
+      "attributes": {
+        "name": "HSBC Bank"
+      }
+    },
+    {
+      "id": "16",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco Paris"
+      }
+    },
+    {
+      "id": "17",
+      "type": "bank",
+      "attributes": {
+        "name": "BBVA"
+      }
+    },
+    {
+      "id": "5",
+      "type": "bank",
+      "attributes": {
+        "name": "BCI"
+      }
+    },
+    {
+      "id": "8",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco Bice"
+      }
+    },
+    {
+      "id": "15",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco Consorcio"
+      }
+    },
+    {
+      "id": "11",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco Itaú - Corpbanca"
+      }
+    },
+    {
+      "id": "1",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco de Chile"
+      }
+    },
+    {
+      "id": "3",
+      "type": "bank",
+      "attributes": {
+        "name": "Banco del Estado de Chile"
+      }
+    }
+  ]
+}

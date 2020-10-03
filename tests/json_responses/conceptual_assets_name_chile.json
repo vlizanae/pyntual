@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "id": "1774",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO CREDICORP CAPITAL INDICE CHILE",
+        "symbol": "FFMM-CREDICORP-8929",
+        "category": "mutual_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "8929-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2887",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO ITAU COMPASS DEUDA CHILENA",
+        "symbol": "FFMM-ITAU-9927",
+        "category": "mutual_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9927-9",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2881",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "QUEST DEUDA CHILE INVESTMENT GRADE FONDO DE INVERSION",
+        "symbol": "FINV-9885",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9885-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1462",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "AMERIS DVA ALL CAP CHILE FONDO DE INVERSION",
+        "symbol": "FINV-9395",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9395-5",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2899",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO ITAU TOESCA CHILE EQUITIES",
+        "symbol": "FFMM-ITAU-9936",
+        "category": "mutual_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9936-8",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "2841",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSION BANCHILE GLOBAL REAL ESTATE",
+        "symbol": "FINV-9854",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9854-k",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1494",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSION ITAU CHILE CORPORATIVO",
+        "symbol": "FINV-9551",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9551-6",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1525",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO DE INVERSIÓN FYNSA DEUDA CHILE",
+        "symbol": "FINV-9559",
+        "category": "investment_fund",
+        "currency": null,
+        "max_scale": 4,
+        "run": "9559-1",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1886",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO EQUILIBRADO",
+        "symbol": "FFMM-BANCHILE-9043",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9043-3",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    },
+    {
+      "id": "1887",
+      "type": "conceptual_asset",
+      "attributes": {
+        "name": "FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO MODERADO",
+        "symbol": "FFMM-BANCHILE-9067",
+        "category": "mutual_fund",
+        "currency": "CLP",
+        "max_scale": 4,
+        "run": "9067-0",
+        "data_source": "http://www.cmfchile.cl"
+      }
+    }
+  ]
+}

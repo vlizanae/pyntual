@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "120",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "A.F.P. Capital S.A."
+      }
+    },
+    {
+      "id": "121",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "A.F.P. Cuprum S.A."
+      }
+    },
+    {
+      "id": "122",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "A.F.P. Habitat S.A."
+      }
+    },
+    {
+      "id": "123",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "A.F.P. Modelo S.A."
+      }
+    },
+    {
+      "id": "124",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "A.F.P. Provida S.A."
+      }
+    },
+    {
+      "id": "77",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "Franklin Templeton Asset Management México S.A. de C.V"
+      }
+    },
+    {
+      "id": "8",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "BICE INVERSIONES ADMINISTRADORA GENERAL DE FONDOS S.A."
+      }
+    },
+    {
+      "id": "14",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "ITAU ADMINISTRADORA GENERAL DE FONDOS S.A."
+      }
+    },
+    {
+      "id": "9",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "BTG PACTUAL CHILE S.A. ADMINISTRADORA GENERAL DE FONDOS"
+      }
+    },
+    {
+      "id": "11",
+      "type": "asset_provider",
+      "attributes": {
+        "name": "LARRAINVIAL ASSET MANAGEMENT ADMINISTRADORA GENERAL DE FONDOS S.A."
+      }
+    }
+  ]
+}

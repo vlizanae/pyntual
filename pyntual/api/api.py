@@ -196,6 +196,7 @@ def real_asset_days(id_: int,
     :param from_date: parameter on external API. If set, date must be absent.
     :return: Pandas DataFrame with the response data.
     """
+    _verify_type(id_, int, 'Real asset id')
     if date and (to_date or from_date):
         raise ValueError('Cannot set date along with to or from date.')
     path = os.path.join('real_assets', str(id_), 'days')
